@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lec4</string>
+    <string name="email">Email</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="hello">Hello %s</string>
+    <string name="greet_user">Hello, %1$s</string>
+    <string name="Guest">Guest</string>
+    <string name="show_map">Show Map</string>
+    <string name="show_dial_phone">Show dial phone</string>
+    <string name="show_internet_site">Show internet site</string>
+
+</resources>
